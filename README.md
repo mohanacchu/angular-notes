@@ -1,2 +1,2 @@
 # typesccript
-demo
+angular notes
